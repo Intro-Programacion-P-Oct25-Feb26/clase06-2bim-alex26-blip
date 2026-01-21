@@ -31,6 +31,7 @@ public class Ejemplo04 {
                     inputMismatchException);
         }
         
+        
         System.out.println("Continuamos");
 
     }

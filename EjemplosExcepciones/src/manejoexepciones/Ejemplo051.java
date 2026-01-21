@@ -28,6 +28,10 @@ public class Ejemplo051 {
 
                 System.out.printf("Resultado %d\n", resultado);
                 bandera = false;
+                /*
+                hace que si entr un numero entero continue y si ingresa 0 o loja 
+                le salte el catch 
+                */
             } catch (InputMismatchException inputMismatchException) {
 
                 System.out.printf("Existe un error de tipo %s\n",
