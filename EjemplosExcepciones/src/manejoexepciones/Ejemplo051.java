@@ -30,7 +30,9 @@ public class Ejemplo051 {
                 bandera = false;
                 /*
                 hace que si entr un numero entero continue y si ingresa 0 o loja 
-                le salte el catch 
+                le salte el catch y se repita infinitamente hasta que ingrese  
+                valores que esta pidiendo para que termine el ciclo y termine
+                el proceso 
                 */
             } catch (InputMismatchException inputMismatchException) {
 
