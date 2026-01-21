@@ -32,7 +32,10 @@ public class Ejemplo08 {
         
         }
         /*
-        
+        este es tipo un catch global que abarca todas las excepciones ahi no 
+        hace falta viendo que excepcion nomas hay porque el excepcion avarca 
+        todo y si se pone mas catch y hay un excepcion el excepcion tiene que
+        ir al final 
         */
         
                
